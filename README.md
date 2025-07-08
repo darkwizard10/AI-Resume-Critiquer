@@ -19,7 +19,7 @@ You upload your resume (PDF or TXT), enter the job role you're targeting (option
 
 - Python  
 - Streamlit  
-- LangChain (Together AI integration)  
+- LangChain (AI integration)  
 - PyPDF2  
 - `python-dotenv` for secure API key usage
 - Any code editior 
